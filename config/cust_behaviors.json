@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "&kp C_VOL_UP",
+		"name": "&kp C_VOL_UP",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
